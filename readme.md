@@ -1,4 +1,4 @@
-# FinvuAuthenticationWrapperSDK
+# FinvuAuthenticationSDK
 
 A simple, secure iOS SDK for integrating Finvu authentication into your app, with seamless support for WebView-based flows and JavaScript bridging.
 
@@ -26,7 +26,7 @@ platform :ios, '16.0'
     
 # Add Finvu SDK dependency
 # Check the latest sdk version in the Latest SDK Versions section
-pod 'FinvuAuthenticationWrapperSDK', :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', :tag => 'latest_ios_sdk_version'
+pod 'FinvuAuthenticationSDK', :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', :tag => 'latest_ios_sdk_version'
 ```
 
 Then run:
@@ -180,7 +180,7 @@ The SDK provides a simple method to set up the WebView bridge. No manual JavaScr
 ```swift
 import UIKit
 import WebKit
-import FinvuAuthenticationWrapperSDK
+import FinvuAuthenticationSDK
 
 class ViewController: UIViewController {
     private var webView: WKWebView!
@@ -226,7 +226,7 @@ class ViewController: UIViewController {
 ```swift
 import SwiftUI
 import WebKit
-import FinvuAuthenticationWrapperSDK
+import FinvuAuthenticationSDK
 
 struct ContentView: View {
     @StateObject private var webViewStore = WebViewStore()
@@ -677,7 +677,7 @@ function callVerifyOtp(phoneNumber, otp) {
 
 ### Input Validation Rules
 
-- **Phone Number**: 7-15 digits, cannot start with 0
+- **Phone Number**: 10 digits, cannot start with 0
 - **OTP**: 4-8 digits only
 - **App ID**: Required, cannot be empty
 - **Request ID**: Required, cannot be empty
