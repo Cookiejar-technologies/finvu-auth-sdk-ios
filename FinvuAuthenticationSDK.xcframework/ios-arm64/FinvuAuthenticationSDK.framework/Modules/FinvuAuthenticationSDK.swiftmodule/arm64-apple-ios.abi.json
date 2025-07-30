@@ -1909,91 +1909,56 @@
     {
       "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8460,
-      "length": 22,
-      "value": "\"^\\+?[1-9]\\d{1,14}$\""
-    },
-    {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 8517,
-      "length": 13,
-      "value": "\"^\\d{4,8}$\""
-    },
-    {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 8568,
-      "length": 26,
-      "value": "\"^[a-zA-Z0-9_-]{10,50}$\""
-    },
-    {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 8638,
-      "length": 13,
-      "value": "\"^\\d{1,4}$\""
-    },
-    {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 8694,
-      "length": 30,
-      "value": "\"^[a-zA-Z_$][a-zA-Z0-9_$]*$\""
-    },
-    {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
-      "kind": "StringLiteral",
-      "offset": 8889,
+      "offset": 8499,
       "length": 59,
       "value": "\"https:\/\/reactjssdk.finvu.in\/redirection\/api\/auth-tracking\""
     },
     {
       "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8998,
+      "offset": 8608,
       "length": 58,
       "value": "\"https:\/\/webvwlive.finvu.in\/redirection\/api\/auth-tracking\""
     },
     {
       "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9211,
+      "offset": 8821,
       "length": 37,
       "value": "\"^https:\/\/reactjssdk\\.finvu\\.in\/.*\""
     },
     {
       "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9301,
+      "offset": 8911,
       "length": 36,
       "value": "\"^https:\/\/webvwlive\\.finvu\\.in\/.*\""
     },
     {
       "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 9875,
+      "offset": 9485,
       "length": 16,
       "value": "1"
     },
     {
       "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 9901,
+      "offset": 9511,
       "length": 9,
       "value": "2"
     },
     {
       "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 9920,
+      "offset": 9530,
       "length": 17,
       "value": "3"
     },
     {
       "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 9947,
+      "offset": 9557,
       "length": 7,
       "value": "4"
     },

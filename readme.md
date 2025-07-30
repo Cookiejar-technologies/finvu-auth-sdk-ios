@@ -18,7 +18,7 @@ A simple, secure iOS SDK for integrating Finvu authentication into your app, wit
 
 ### Using CocoaPods
 
-Add the following to your `Podfile`:
+1) Add the following to your `Podfile`:
 
 ```ruby
 # Podfile configuration
@@ -29,12 +29,40 @@ platform :ios, '16.0'
 pod 'FinvuAuthenticationSDK', :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', :tag => 'latest_ios_sdk_version'
 ```
 
-Then run:
+2) Then run:
 ```bash
 pod install --repo-update
 ```
 
-> **Note:** Replace `latest_ios_sdk_version` in your Podfile with the actual version number. Latest version is `0.1.0`.
+3) Add this bloc in info.plist; it is required to add this to support Silent Netwrok Authentication [Why SNA Config is needed in the customer App for SNA:](https://docs.google.com/document/d/1TQndJJ1IvKAEt5aZxJE-EL156-Zw3e2RfhS7K-NgXHk/edit?usp=sharing) 
+```bash
+	<key>NSAllowsArbitraryLoads</key>
+	<true/>
+	<key>NSExceptionDomains</key>
+	<dict>
+		<key>80.in.safr.sekuramobile.com</key>
+		<dict>
+			<key>NSIncludesSubdomains</key>
+			<true/>
+			<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
+			<true/>
+			<key>NSTemporaryExceptionMinimumTLSVersion</key>
+			<string>TLSv1.1</string>
+		</dict>
+		<key>partnerapi.jio.com</key>
+		<dict>
+			<key>NSIncludesSubdomains</key>
+			<true/>
+			<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
+			<true/>
+			<key>NSTemporaryExceptionMinimumTLSVersion</key>
+			<string>TLSv1.1</string>
+		</dict>
+	</dict>
+```
+
+
+> **Note:** Replace `latest_ios_sdk_version` in your Podfile with the actual version number. Latest version is `0.1.1`.
 
 ---
 
@@ -660,11 +688,7 @@ function callVerifyOtp(phoneNumber, otp) {
 |---------------------|--------------------------------------|------------------------------------|
 | SUCCESS             | Operation completed successfully     | Use token or proceed               |
 | FAILURE             | Operation failed                     | Handle error, retry if appropriate |
-| INITIATE            | OTP sent, waiting for user input     | Show OTP input field               |
-| OTP_AUTO_READ       | OTP automatically read from SMS      | Auto-submit or show OTP            |
-| VERIFY              | Authentication verified              | Wait for SUCCESS with token       |
-| DELIVERY_STATUS     | SMS delivery status update           | Show delivery information          |
-| FALLBACK_TRIGGERED  | Fallback authentication triggered    | Handle fallback flow               |
+
 
 ### Error Codes (Only in Failure Responses)
 
@@ -672,8 +696,6 @@ function callVerifyOtp(phoneNumber, otp) {
 |------------|--------------------------------|--------------------------------------------------|
 | 1001       | Invalid parameter              | Missing appId/requestId, invalid phone number/OTP format  |
 | 1002       | Generic failure                | Network issues, service unavailable             |
-| 5003       | SDK initialization failed      | Invalid app ID, network connectivity issues     |
-| 9106       | Silent Network Auth failed     | SIM/network conditions not met                  |
 
 ### Input Validation Rules
 
