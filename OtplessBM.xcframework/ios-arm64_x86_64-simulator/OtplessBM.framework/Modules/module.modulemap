@@ -1,0 +1,11 @@
+framework module OtplessBM {
+  umbrella header "OtplessBM-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module OtplessBM.Swift {
+  header "OtplessBM-Swift.h"
+  requires objc
+}

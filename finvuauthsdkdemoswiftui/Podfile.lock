@@ -1,0 +1,24 @@
+PODS:
+  - FinvuAuthenticationSDK (0.1.0)
+
+DEPENDENCIES:
+  - FinvuAuthenticationSDK (from `https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git`, branch `feat/sdk-publishing`, tag `v0.1.1`)
+
+EXTERNAL SOURCES:
+  FinvuAuthenticationSDK:
+    :branch: feat/sdk-publishing
+    :git: https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git
+    :tag: v0.1.1
+
+CHECKOUT OPTIONS:
+  FinvuAuthenticationSDK:
+    :commit: c84645908859c90c5f03c77e9fa1bb0295f8e8bb
+    :git: https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git
+    :tag: v0.1.1
+
+SPEC CHECKSUMS:
+  FinvuAuthenticationSDK: 67292952ef2c94940b97e80bf70f6a30bfc4ebdc
+
+PODFILE CHECKSUM: 8ded1a1e9c63c065940a9b96ac8b937fd33dd349
+
+COCOAPODS: 1.16.2
