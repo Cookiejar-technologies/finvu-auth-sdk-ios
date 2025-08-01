@@ -18,15 +18,15 @@
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		RI40dQw2ROVMQD3YR+UbR9lZ1Yw=
+		9wdPcbqgA4Pqt9W+Ssncmjmvmb0=
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		+atRVZw4ndpFkEk5V5XhPUXAZm8=
+		gZnAIWlqWOvC95bHQsZXv8pIpOs=
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		VIvwxHSALzEJekTDPdkWu72pNjs=
+		8HOkput7F0/Su9W9wtXBovv6Qec=
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Re7FU6894GAMPz44SYh7EgWL4Uo=
+		qQacVgUTevTSga2E582SbdZqw70=
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		VIvwxHSALzEJekTDPdkWu72pNjs=
+		8HOkput7F0/Su9W9wtXBovv6Qec=
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZDOGK46kLNb0ZuLpyxowwcG8a3o=
+		9t6tl3M5Ys6ND9QqWk80lNVeG1U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,21 +89,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m0a3zsAPp62DWZ/myoCC+mQ7jJcAEK2tABgZiFwYa7s=
+			5n6lffcppvTqhC9bjjL6o/lQZmJDs/3zheLUk5UtOpI=
 			</data>
 		</dict>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wKade0rpH0zh42iWV5bcOEyos3znRQZonkG8DkNYaTA=
+			9K7gBRFbyKcpLBUcPJ72PWGgIHICZvyW2Wvb5TMgRgU=
 			</data>
 		</dict>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G4hyLnYWmPUpOqvsr3pzMQ+2ZPcKoymYQ0Lz+DiCOjE=
+			TAKAvYYFTceFsho5JyOR1zlSFcxDfB+3aFApU1hTsUQ=
 			</data>
 		</dict>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -131,14 +131,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wc5TQFFNOXVMlsIJioU1fPUelinMMURP+Lj5akT4rDM=
+			xbOj5zPdr3WibvjtT+SkJzFpgKczVGbC2MHNBYtDEh0=
 			</data>
 		</dict>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G4hyLnYWmPUpOqvsr3pzMQ+2ZPcKoymYQ0Lz+DiCOjE=
+			TAKAvYYFTceFsho5JyOR1zlSFcxDfB+3aFApU1hTsUQ=
 			</data>
 		</dict>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jBoL+pL+T2B6A9wATC2NCiaHYV6WH/LLhQdoupbGcZU=
+			3mYY4NwEWu4icZ5EYBfaRUP3gktyBMUORLzbM3u1X70=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
