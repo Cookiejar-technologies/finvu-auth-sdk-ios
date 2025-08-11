@@ -6376,1246 +6376,1246 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
       "kind": "StringLiteral",
       "offset": 293,
       "length": 31,
       "value": "\"https:\/\/user-auth.otpless.app\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
       "kind": "StringLiteral",
       "offset": 357,
       "length": 36,
       "value": "\"http:\/\/80.in.safr.sekuramobile.com\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
       "kind": "StringLiteral",
       "offset": 459,
       "length": 11,
       "value": "\"\/v2\/state\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
       "kind": "StringLiteral",
       "offset": 505,
       "length": 40,
       "value": "\"\/v3\/lp\/user\/transaction\/intent\/{state}\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
       "kind": "StringLiteral",
       "offset": 588,
       "length": 32,
       "value": "\"\/v2\/lp\/merchant\/config\/{state}\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
       "kind": "StringLiteral",
       "offset": 659,
       "length": 38,
       "value": "\"\/v3\/lp\/user\/transaction\/code\/{state}\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
       "kind": "StringLiteral",
       "offset": 739,
       "length": 40,
       "value": "\"\/v3\/lp\/user\/transaction\/status\/{state}\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
       "kind": "StringLiteral",
       "offset": 825,
       "length": 52,
       "value": "\"\/v3\/lp\/user\/transaction\/silent-auth-status\/{state}\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
       "kind": "StringLiteral",
       "offset": 917,
       "length": 37,
       "value": "\"\/v3\/lp\/user\/transaction\/otp\/{state}\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
       "kind": "FloatLiteral",
       "offset": 1010,
       "length": 4,
       "value": "20.0"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
       "kind": "FloatLiteral",
       "offset": 1051,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/api\/ApiManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1086,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/ApiResponse.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/ApiResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 382,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/AuthenticationMedium.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/AuthenticationMedium.swift",
       "kind": "StringLiteral",
       "offset": 170,
       "length": 7,
       "value": "\"PHONE\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/AuthenticationMedium.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/AuthenticationMedium.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 7,
       "value": "\"EMAIL\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/AuthenticationMedium.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/AuthenticationMedium.swift",
       "kind": "StringLiteral",
       "offset": 220,
       "length": 7,
       "value": "\"OAUTH\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/AuthenticationMedium.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/AuthenticationMedium.swift",
       "kind": "StringLiteral",
       "offset": 249,
       "length": 11,
       "value": "\"WEB_AUTHN\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/cellular\/CellularConnectionManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/cellular\/CellularConnectionManager.swift",
       "kind": "FloatLiteral",
       "offset": 556,
       "length": 3,
       "value": "7.0"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/cellular\/CellularConnectionManager.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/network\/cellular\/CellularConnectionManager.swift",
       "kind": "StringLiteral",
       "offset": 655,
       "length": 41,
       "value": "\"com.otpless.cellular.connection.manager\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Constants.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 179,
       "length": 18,
       "value": "\"otpless_bm_state\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Constants.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 224,
       "length": 17,
       "value": "\"otpless_bm_inid\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Constants.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 267,
       "length": 16,
       "value": "\"otpless_bm_uid\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Constants.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 348,
       "length": 9,
       "value": "\"SUCCESS\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Constants.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 383,
       "length": 9,
       "value": "\"PENDING\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Constants.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 417,
       "length": 8,
       "value": "\"FAILED\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/DeviceInfoUtils.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/DeviceInfoUtils.swift",
       "kind": "BooleanLiteral",
       "offset": 373,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/DeviceInfoUtils.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/DeviceInfoUtils.swift",
       "kind": "BooleanLiteral",
       "offset": 415,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/DeviceInfoUtils.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/DeviceInfoUtils.swift",
       "kind": "BooleanLiteral",
       "offset": 463,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/DeviceInfoUtils.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/DeviceInfoUtils.swift",
       "kind": "BooleanLiteral",
       "offset": 513,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/DeviceInfoUtils.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/DeviceInfoUtils.swift",
       "kind": "StringLiteral",
       "offset": 544,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "Dictionary",
       "offset": 180,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 201,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 225,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 3233,
       "length": 22,
       "value": "\"native_init_headless\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 3289,
       "length": 30,
       "value": "\"native_set_headless_callback\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 3346,
       "length": 23,
       "value": "\"native_start_headless\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 3408,
       "length": 30,
       "value": "\"native_response_headless_sdk\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 3475,
       "length": 28,
       "value": "\"native_sna_callback_result\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 3533,
       "length": 30,
       "value": "\"native_deeplink_headless_sdk\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 3594,
       "length": 32,
       "value": "\"native_google_sdk_headless_sdk\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 3656,
       "length": 31,
       "value": "\"native_apple_sdk_headless_sdk\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 3720,
       "length": 34,
       "value": "\"native_facebook_sdk_headless_sdk\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 3783,
       "length": 25,
       "value": "\"native_headless_timeout\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 3845,
       "length": 33,
       "value": "\"native_headless_merchant_commit\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 3914,
       "length": 27,
       "value": "\"native_api_response_error\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 3980,
       "length": 35,
       "value": "\"native_sna_auth_terminal_response\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/EventHelper.swift",
       "kind": "StringLiteral",
       "offset": 4054,
       "length": 35,
       "value": "\"native_sna_init_terminal_response\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/GetMerchantConfigUseCase.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/GetMerchantConfigUseCase.swift",
       "kind": "IntegerLiteral",
       "offset": 157,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/GetStateUseCase.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/GetStateUseCase.swift",
       "kind": "IntegerLiteral",
       "offset": 139,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 620,
       "length": 22,
       "value": "\"API RESPONSE FAILURE\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 679,
       "length": 28,
       "value": "\"CLASSES DEALLOC IN CLOSURE\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 744,
       "length": 26,
       "value": "\"API REQUEST AND RESPONSE\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 803,
       "length": 32,
       "value": "\"Is Passkey Supported on Device\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 863,
       "length": 17,
       "value": "\"Polling Stopped\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 908,
       "length": 17,
       "value": "\"Polling Started\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 954,
       "length": 18,
       "value": "\"Polling Response\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1001,
       "length": 18,
       "value": "\"Invalid Deeplink\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1044,
       "length": 14,
       "value": "\"SNA Response\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1086,
       "length": 17,
       "value": "\"EVENT API ERROR\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 1137,
       "length": 23,
       "value": "\"EVENT CREATING FAILED\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/views\/OneTapView.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/views\/OneTapView.swift",
       "kind": "BooleanLiteral",
       "offset": 524,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/views\/OneTapView.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/views\/OneTapView.swift",
       "kind": "BooleanLiteral",
       "offset": 4621,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "BooleanLiteral",
       "offset": 346,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "IntegerLiteral",
       "offset": 402,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "IntegerLiteral",
       "offset": 464,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "StringLiteral",
       "offset": 525,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "BooleanLiteral",
       "offset": 712,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "StringLiteral",
       "offset": 777,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "StringLiteral",
       "offset": 839,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "StringLiteral",
       "offset": 900,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "StringLiteral",
       "offset": 952,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "StringLiteral",
       "offset": 1004,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "Dictionary",
       "offset": 1062,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "Dictionary",
       "offset": 1127,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "StringLiteral",
       "offset": 1222,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "StringLiteral",
       "offset": 1270,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "StringLiteral",
       "offset": 1318,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "StringLiteral",
       "offset": 1367,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "StringLiteral",
       "offset": 1503,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "StringLiteral",
       "offset": 1558,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "StringLiteral",
       "offset": 1913,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "IntegerLiteral",
       "offset": 2059,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "IntegerLiteral",
       "offset": 2075,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "BooleanLiteral",
       "offset": 2093,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "IntegerLiteral",
       "offset": 3312,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "BooleanLiteral",
       "offset": 3369,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "BooleanLiteral",
       "offset": 3511,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "IntegerLiteral",
       "offset": 3715,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "BooleanLiteral",
       "offset": 3996,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/Otpless.swift",
       "kind": "Dictionary",
       "offset": 9450,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 183,
       "length": 10,
       "value": "\"WHATSAPP\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 216,
       "length": 12,
       "value": "\"GOOGLE_SDK\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 253,
       "length": 14,
       "value": "\"FACEBOOK_SDK\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 289,
       "length": 11,
       "value": "\"APPLE_SDK\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 318,
       "length": 13,
       "value": "\"APPLE_EMAIL\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 349,
       "length": 7,
       "value": "\"GMAIL\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 376,
       "length": 9,
       "value": "\"TWITTER\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 405,
       "length": 9,
       "value": "\"DISCORD\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 432,
       "length": 7,
       "value": "\"SLACK\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 460,
       "length": 10,
       "value": "\"FACEBOOK\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 491,
       "length": 10,
       "value": "\"LINKEDIN\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 523,
       "length": 11,
       "value": "\"MICROSOFT\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 551,
       "length": 6,
       "value": "\"LINE\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 576,
       "length": 8,
       "value": "\"LINEAR\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 603,
       "length": 8,
       "value": "\"NOTION\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 630,
       "length": 8,
       "value": "\"TWITCH\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 657,
       "length": 8,
       "value": "\"GITHUB\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 687,
       "length": 11,
       "value": "\"BITBUCKET\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 720,
       "length": 11,
       "value": "\"ATLASSIAN\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 750,
       "length": 8,
       "value": "\"GITLAB\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 782,
       "length": 13,
       "value": "\"TRUE_CALLER\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1102,
       "length": 10,
       "value": "\"WHATSAPP\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1154,
       "length": 12,
       "value": "\"GOOGLE_SDK\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1210,
       "length": 14,
       "value": "\"FACEBOOK_SDK\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1265,
       "length": 11,
       "value": "\"APPLE_SDK\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1313,
       "length": 13,
       "value": "\"APPLE_EMAIL\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1363,
       "length": 7,
       "value": "\"GMAIL\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1409,
       "length": 9,
       "value": "\"TWITTER\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1457,
       "length": 9,
       "value": "\"DISCORD\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1503,
       "length": 7,
       "value": "\"SLACK\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1550,
       "length": 10,
       "value": "\"FACEBOOK\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1600,
       "length": 10,
       "value": "\"LINKEDIN\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1651,
       "length": 11,
       "value": "\"MICROSOFT\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1698,
       "length": 6,
       "value": "\"LINE\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1742,
       "length": 8,
       "value": "\"LINEAR\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1788,
       "length": 8,
       "value": "\"NOTION\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1834,
       "length": 8,
       "value": "\"TWITCH\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1880,
       "length": 8,
       "value": "\"GITHUB\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1929,
       "length": 11,
       "value": "\"BITBUCKET\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 1981,
       "length": 11,
       "value": "\"ATLASSIAN\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 2030,
       "length": 8,
       "value": "\"GITLAB\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessChannelType.swift",
       "kind": "StringLiteral",
       "offset": 2081,
       "length": 13,
       "value": "\"TRUE_CALLER\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessConstant.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 186,
       "length": 4,
       "value": "7160"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessConstant.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessConstant.swift",
       "kind": "IntegerLiteral",
       "offset": 228,
       "length": 4,
       "value": "7161"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/extensions\/OtplessExtensions.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/extensions\/OtplessExtensions.swift",
       "kind": "StringLiteral",
       "offset": 11682,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/extensions\/OtplessExtensions.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/extensions\/OtplessExtensions.swift",
       "kind": "StringLiteral",
       "offset": 11706,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 10714,
       "length": 8,
       "value": "\"mobile\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 10755,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 10795,
       "length": 7,
       "value": "\"email\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 10838,
       "length": 16,
       "value": "\"identifierType\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 10880,
       "length": 6,
       "value": "\"type\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 10915,
       "length": 9,
       "value": "\"channel\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 10955,
       "length": 11,
       "value": "\"requestId\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 10991,
       "length": 5,
       "value": "\"otp\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 11022,
       "length": 6,
       "value": "\"code\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 11059,
       "length": 11,
       "value": "\"otpLength\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 11098,
       "length": 8,
       "value": "\"expiry\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 11143,
       "length": 17,
       "value": "\"deliveryChannel\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 11188,
       "length": 8,
       "value": "\"locale\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 11223,
       "length": 7,
       "value": "\"value\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 11255,
       "length": 5,
       "value": "\"tid\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 11309,
       "length": 8,
       "value": "\"MOBILE\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 11346,
       "length": 7,
       "value": "\"EMAIL\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 11382,
       "length": 7,
       "value": "\"INPUT\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 11419,
       "length": 8,
       "value": "\"BUTTON\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessRequest.swift",
       "kind": "StringLiteral",
       "offset": 11457,
       "length": 8,
       "value": "\"DEVICE\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
       "kind": "StringLiteral",
       "offset": 932,
       "length": 11,
       "value": "\"errorCode\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
       "kind": "StringLiteral",
       "offset": 945,
       "length": 6,
       "value": "\"5003\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
       "kind": "StringLiteral",
       "offset": 961,
       "length": 14,
       "value": "\"errorMessage\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
       "kind": "StringLiteral",
       "offset": 977,
       "length": 30,
       "value": "\"Failed to initialize the SDK\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 1027,
       "length": 4,
       "value": "5003"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1126,
       "length": 9,
       "value": "\"success\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1138,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 1157,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1248,
       "length": 5,
       "value": "\"401\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1286,
       "length": 48,
       "value": "\"UnAuthorized request! Please check your appId.\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/OtplessResponse.swift",
       "kind": "StringLiteral",
       "offset": 2746,
       "length": 6,
       "value": "\"4000\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/SdkAuthParams.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/SdkAuthParams.swift",
       "kind": "BooleanLiteral",
       "offset": 510,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/SdkAuthParams.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/SdkAuthParams.swift",
       "kind": "BooleanLiteral",
       "offset": 548,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/SdkAuthParams.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/dto\/SdkAuthParams.swift",
       "kind": "BooleanLiteral",
       "offset": 584,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/SecureStorage.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/utils\/SecureStorage.swift",
       "kind": "StringLiteral",
       "offset": 249,
       "length": 25,
       "value": "\"com.otpless.bmum.secure\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/SNAUseCase.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/SNAUseCase.swift",
       "kind": "BooleanLiteral",
       "offset": 395,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/SNAUseCase.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/SNAUseCase.swift",
       "kind": "BooleanLiteral",
       "offset": 446,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/SNAUseCase.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/SNAUseCase.swift",
       "kind": "StringLiteral",
       "offset": 537,
       "length": 13,
       "value": "\"SILENT_AUTH\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/TransactionStatusUseCase.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/TransactionStatusUseCase.swift",
       "kind": "BooleanLiteral",
       "offset": 181,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/TransactionStatusUseCase.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/TransactionStatusUseCase.swift",
       "kind": "StringLiteral",
       "offset": 219,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/TransactionStatusUseCase.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/TransactionStatusUseCase.swift",
       "kind": "IntegerLiteral",
       "offset": 301,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/pranad\/Documents\/finvu-authentication-wrapper-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/TransactionStatusUseCase.swift",
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/Example\/Pods\/OtplessBM\/Sources\/OtplessBM\/usecase\/TransactionStatusUseCase.swift",
       "kind": "Dictionary",
       "offset": 351,
       "length": 3,

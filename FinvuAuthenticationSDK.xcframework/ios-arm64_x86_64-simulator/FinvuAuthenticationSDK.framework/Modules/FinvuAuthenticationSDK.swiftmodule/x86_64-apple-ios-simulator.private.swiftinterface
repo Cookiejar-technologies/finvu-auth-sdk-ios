@@ -30,12 +30,28 @@ import _SwiftConcurrencyShims
     get
   }
 }
+@_hasMissingDesignatedInitializers public class FinvuAuthenticationNativeWrapper {
+  public static let shared: FinvuAuthenticationSDK.FinvuAuthenticationNativeWrapper
+  public func setup(viewController: UIKit.UIViewController, environment: FinvuAuthenticationSDK.FinvuAuthEnvironment)
+  public func initAuth(config: [Swift.String : Any], completion: @escaping (Swift.Result<[Swift.String : Any], FinvuAuthenticationSDK.FinvuAuthException>) -> Swift.Void)
+  public func startAuth(phoneNumber: Swift.String, completion: @escaping (Swift.Result<[Swift.String : Any], FinvuAuthenticationSDK.FinvuAuthException>) -> Swift.Void)
+  public func verifyOtp(phoneNumber: Swift.String, otp: Swift.String, completion: @escaping (Swift.Result<[Swift.String : Any], FinvuAuthenticationSDK.FinvuAuthException>) -> Swift.Void)
+  public func cleanupAll()
+  @objc deinit
+}
 @_hasMissingDesignatedInitializers public class FinvuAuthenticationWrapper {
   public static let shared: FinvuAuthenticationSDK.FinvuAuthenticationWrapper
   public func setupWebView(_ webView: WebKit.WKWebView, viewController: UIKit.UIViewController, environment: FinvuAuthenticationSDK.FinvuAuthEnvironment)
   public func cleanup()
   public func cleanupAll()
   @objc deinit
+}
+public struct FinvuAuthException : Swift.Error, Swift.Codable {
+  public let status: Swift.String
+  public let errorCode: Swift.String
+  public let errorMessage: Swift.String
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 public enum FinvuAuthHttpError : Swift.Error, Foundation.LocalizedError {
   case invalidURL(Swift.String)

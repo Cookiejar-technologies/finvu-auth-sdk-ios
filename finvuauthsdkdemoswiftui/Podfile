@@ -7,5 +7,5 @@ target 'finvuauthsdkdemoswiftui' do
 
   # Pods for finvuauthsdkdemoswiftui
 
-  pod 'FinvuAuthenticationSDK', :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', tag: 'v1.0.0'
+  pod 'FinvuAuthenticationSDK', :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', tag: 'v1.0.1'
 end

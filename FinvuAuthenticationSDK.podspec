@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios'
   
   s.author           = { 'Finvu team' => 'pranadw@cookiejar.co.in' }
-  s.source           = { :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', tag: 'v1.0.0' }
+  s.source           = { :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', tag: 'v1.0.1' }
 
   s.ios.deployment_target = '16.0'
 
