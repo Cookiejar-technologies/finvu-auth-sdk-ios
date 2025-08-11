@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/pranad/Documents/finvu-authentication-wrapper-ios-implementation/FinvuAuthenticationSDK/Example/build/Release-iphoneos/OtplessBM/OtplessBM.framework/OtplessBM'
+binary-path:     '/Users/pranad/Documents/Projects/finvu-auth-sdk-ios-implementation/FinvuAuthenticationSDK/Example/build/Release-iphoneos/OtplessBM/OtplessBM.framework/OtplessBM'
 relocations:
   - { offset: 0x63497, size: 0x8, addend: 0x0, symName: _OtplessBMVersionString, symObjAddr: 0x0, symBinAddr: 0x84200, symSize: 0x0 }
   - { offset: 0x634CC, size: 0x8, addend: 0x0, symName: _OtplessBMVersionNumber, symObjAddr: 0x28, symBinAddr: 0x84228, symSize: 0x0 }
@@ -1320,7 +1320,7 @@ relocations:
   - { offset: 0x8837C, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A15ChannelTypeObjCCACycfcTo', symObjAddr: 0xD28, symBinAddr: 0x49CA0, symSize: 0x3C }
   - { offset: 0x883B1, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A15ChannelTypeObjCCfD', symObjAddr: 0xD64, symBinAddr: 0x49CDC, symSize: 0x30 }
   - { offset: 0x88555, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A8ConstantO18terminalErrorCodes_WZ', symObjAddr: 0x0, symBinAddr: 0x49F74, symSize: 0xA0 }
-  - { offset: 0x88579, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A8ConstantO18terminalErrorCodesSaySSGvpZ', symObjAddr: 0x2558, symBinAddr: 0xBBE78, symSize: 0x0 }
+  - { offset: 0x88579, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A8ConstantO18terminalErrorCodesSaySSGvpZ', symObjAddr: 0x2538, symBinAddr: 0xBBE78, symSize: 0x0 }
   - { offset: 0x885A8, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A8ConstantO18terminalErrorCodes_WZ', symObjAddr: 0x0, symBinAddr: 0x49F74, symSize: 0xA0 }
   - { offset: 0x88844, size: 0x8, addend: 0x0, symName: '_$sIegh_IeyBh_TR', symObjAddr: 0x0, symBinAddr: 0x4A014, symSize: 0x2C }
   - { offset: 0x8889E, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A0C24getVerifyCodeQueryParams4code12webAuthnData9requestIdSDyS2SGSS_S2StF', symObjAddr: 0x2C, symBinAddr: 0x4A040, symSize: 0x438 }
@@ -1416,8 +1416,8 @@ relocations:
   - { offset: 0x911D6, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A7RequestCACycfc', symObjAddr: 0x1978, symBinAddr: 0x51350, symSize: 0x124 }
   - { offset: 0x911FB, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A7RequestCACycfcTo', symObjAddr: 0x1A9C, symBinAddr: 0x51474, symSize: 0x20 }
   - { offset: 0x9120F, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A7RequestCfD', symObjAddr: 0x1ABC, symBinAddr: 0x51494, symSize: 0x30 }
-  - { offset: 0x9143D, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A8ResponseV018failedToInitializeC0ACvpZ', symObjAddr: 0x8050, symBinAddr: 0xBBE80, symSize: 0x0 }
-  - { offset: 0x9158B, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A8ResponseV8sdkReadyACvpZ', symObjAddr: 0x8068, symBinAddr: 0xBBE98, symSize: 0x0 }
+  - { offset: 0x9143D, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A8ResponseV018failedToInitializeC0ACvpZ', symObjAddr: 0x8038, symBinAddr: 0xBBE80, symSize: 0x0 }
+  - { offset: 0x9158B, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A8ResponseV8sdkReadyACvpZ', symObjAddr: 0x8050, symBinAddr: 0xBBE98, symSize: 0x0 }
   - { offset: 0x916BF, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A8ResponseV018failedToInitializeC0_WZ', symObjAddr: 0x9F4, symBinAddr: 0x53804, symSize: 0x110 }
   - { offset: 0x91782, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A8ResponseV8sdkReady_WZ', symObjAddr: 0xB04, symBinAddr: 0x53914, symSize: 0xC4 }
   - { offset: 0x9186C, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM0A8ResponseVwca', symObjAddr: 0x1244, symBinAddr: 0x54048, symSize: 0x54 }
@@ -1582,7 +1582,7 @@ relocations:
   - { offset: 0x99E19, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM8SdkStateOSYAASY8rawValue03RawF0QzvgTW', symObjAddr: 0x2A8, symBinAddr: 0x5F424, symSize: 0x40 }
   - { offset: 0x99E31, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM8SdkStateOSYAASY8rawValue03RawF0QzvgTW', symObjAddr: 0x2A8, symBinAddr: 0x5F424, symSize: 0x40 }
   - { offset: 0x99FD9, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM13SecureStorageC8retrieve3keySSSgSS_tF', symObjAddr: 0x0, symBinAddr: 0x5F530, symSize: 0x298 }
-  - { offset: 0x99FFD, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM13SecureStorageC6sharedACvpZ', symObjAddr: 0x4438, symBinAddr: 0xBBEB0, symSize: 0x0 }
+  - { offset: 0x99FFD, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM13SecureStorageC6sharedACvpZ', symObjAddr: 0x4420, symBinAddr: 0xBBEB0, symSize: 0x0 }
   - { offset: 0x9A0ED, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM13SecureStorageC6shared_WZ', symObjAddr: 0x630, symBinAddr: 0x5FB60, symSize: 0x28 }
   - { offset: 0x9A11D, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM13SecureStorageCMa', symObjAddr: 0x67C, symBinAddr: 0x5FBAC, symSize: 0x20 }
   - { offset: 0x9A1E3, size: 0x8, addend: 0x0, symName: '_$s9OtplessBM13SecureStorageC8retrieve3keySSSgSS_tF', symObjAddr: 0x0, symBinAddr: 0x5F530, symSize: 0x298 }

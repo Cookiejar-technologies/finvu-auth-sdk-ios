@@ -62,7 +62,7 @@ pod install --repo-update
 ```
 
 
-> **Note:** Replace `latest_ios_sdk_version` in your Podfile with the actual version number. Latest version is `v1.0.0`.
+> **Note:** Replace `latest_ios_sdk_version` in your Podfile with the actual version number. Latest version is `v1.0.1`.
 
 ---
 
