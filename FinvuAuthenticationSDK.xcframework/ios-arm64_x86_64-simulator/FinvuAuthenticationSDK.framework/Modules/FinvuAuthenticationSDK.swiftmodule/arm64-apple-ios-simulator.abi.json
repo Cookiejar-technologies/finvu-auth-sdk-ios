@@ -434,8 +434,8 @@
       },
       {
         "kind": "Import",
-        "name": "OtplessBM",
-        "printedName": "OtplessBM",
+        "name": "OtplessFinVu",
+        "printedName": "OtplessFinVu",
         "declKind": "Import",
         "moduleName": "FinvuAuthenticationSDK"
       },
@@ -1308,8 +1308,8 @@
       },
       {
         "kind": "Import",
-        "name": "OtplessBM",
-        "printedName": "OtplessBM",
+        "name": "OtplessFinVu",
+        "printedName": "OtplessFinVu",
         "declKind": "Import",
         "moduleName": "FinvuAuthenticationSDK"
       },
@@ -2625,16 +2625,37 @@
     {
       "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/manager\/FinvuAuthLogManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 486,
+      "offset": 602,
       "length": 5,
       "value": "false"
     },
     {
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/manager\/FinvuAuthLogManager.swift",
+      "kind": "StringLiteral",
+      "offset": 699,
+      "length": 30,
+      "value": "\"finvu.auth.log.manager.state\""
+    },
+    {
       "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/repository\/finvuAuthResponseManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2434,
+      "offset": 2518,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/manager\/FinvuHTTPManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 649,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/manager\/FinvuHTTPManager.swift",
+      "kind": "StringLiteral",
+      "offset": 763,
+      "length": 26,
+      "value": "\"finvu.http.manager.state\""
     }
   ]
 }

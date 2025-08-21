@@ -4,7 +4,7 @@
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface
 @_exported import FinvuAuthenticationSDK
 import Foundation
-import OtplessBM
+import OtplessFinVu
 import Swift
 import UIKit
 import WebKit

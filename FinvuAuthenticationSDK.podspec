@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '16.0'
 
-  s.vendored_frameworks = 'FinvuAuthenticationSDK.xcframework','OtplessBM.xcframework'
+  s.vendored_frameworks = 'FinvuAuthenticationSDK.xcframework','OtplessFinVu.xcframework'
   s.swift_version    = '5.0'
 end

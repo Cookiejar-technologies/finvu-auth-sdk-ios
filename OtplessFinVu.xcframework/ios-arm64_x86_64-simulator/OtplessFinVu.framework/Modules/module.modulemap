@@ -1,0 +1,11 @@
+framework module OtplessFinVu {
+  umbrella header "OtplessFinVu-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module OtplessFinVu.Swift {
+  header "OtplessFinVu-Swift.h"
+  requires objc
+}
