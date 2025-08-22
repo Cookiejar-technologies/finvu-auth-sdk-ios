@@ -6,53 +6,29 @@
 //
 
 import SwiftUI
-import WebKit
 import FinvuAuthenticationSDK
 
-struct ContentView: View {
-    @StateObject private var webViewStore = WebViewStore()
-
+struct HomeView: View {
     var body: some View {
-        WebView(webView: webViewStore.webView)
-            .onAppear {
-                // Get the root view controller to pass to the SDK
-                if let rootVC = UIApplication.shared.connectedScenes
-                    .compactMap({ $0 as? UIWindowScene })
-                    .flatMap({ $0.windows })
-                    .first(where: { $0.isKeyWindow })?.rootViewController {
-                    FinvuAuthenticationWrapper.shared.setupWebView(webViewStore.webView, viewController: rootVC,environment: .development)
-                }
+        NavigationView {
+            VStack(spacing: 20) {
+                NavigationLink("Load WebView", destination: WebViewScreen())
+                    .padding()
+                    .background(Color.blue)
+                    .foregroundColor(.white)
+                    .cornerRadius(10)
+
+                NavigationLink("Load Native View", destination: NativeAuthView())
+                    .padding()
+                    .background(Color.green)
+                    .foregroundColor(.white)
+                    .cornerRadius(10)
             }
-            .edgesIgnoringSafeArea(.all)
-    }
-}
-
-// Helper class to keep WKWebView alive
-final class WebViewStore: ObservableObject {
-    @Published var webView: WKWebView
-
-    init() {
-        let config = WKWebViewConfiguration()
-        self.webView = WKWebView(frame: .zero, configuration: config)
-    }
-}
-
-// UIViewRepresentable wrapper for WKWebView
-struct WebView: UIViewRepresentable {
-    let webView: WKWebView
-
-    func makeUIView(context: Context) -> WKWebView {
-        // Optionally load a URL or local HTML file
-        if let url = URL(string: "https://test-web-app-8a50c.web.app") {
-            webView.load(URLRequest(url: url))
+            .navigationTitle("Finvu Auth Demo")
         }
-        return webView
     }
-
-    func updateUIView(_ uiView: WKWebView, context: Context) {}
 }
 
 #Preview {
-    ContentView()
+    HomeView()
 }
-
