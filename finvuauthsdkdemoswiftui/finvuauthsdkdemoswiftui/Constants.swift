@@ -2,7 +2,6 @@ import Foundation
 import FinvuAuthenticationSDK
 
 enum Constants {
-    static let webViewBaseURL = "https://test-web-app-8a50c.web.app"
     
     enum Config {
         static let appId = ""
