@@ -11,6 +11,7 @@ import FinvuAuthenticationSDK
 
 struct WebViewScreen: View {
     @StateObject private var webViewStore = WebViewStore()
+    let customURLString: String
 
     var body: some View {
         WebView(webView: webViewStore.webView)
@@ -25,7 +26,7 @@ struct WebViewScreen: View {
                         environment: .development
                     )
                 }
-                if let url = URL(string: Constants.webViewBaseURL) {
+                if let url = URL(string: customURLString) {
                     webViewStore.webView.load(URLRequest(url: url))
                 }
             }
