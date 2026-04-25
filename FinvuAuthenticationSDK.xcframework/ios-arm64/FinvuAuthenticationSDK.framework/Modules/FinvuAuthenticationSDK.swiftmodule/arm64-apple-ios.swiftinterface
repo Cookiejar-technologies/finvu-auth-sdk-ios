@@ -1,16 +1,18 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target arm64-apple-ios16.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name FinvuAuthenticationSDK
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.2.1 effective-5.10 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
+// swift-module-flags: -target arm64-apple-ios16.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name FinvuAuthenticationSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
+import CoreTelephony
 @_exported import FinvuAuthenticationSDK
 import Foundation
-import OtplessFinVu
+import Network
 import Swift
 import UIKit
 import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+import os
 @objc public enum FinvuAuthEnvironment : Swift.Int, Swift.CaseIterable {
   case development
   case production
@@ -20,7 +22,9 @@ import _SwiftConcurrencyShims
   public var isDebugMode: Swift.Bool {
     get
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.Int)
+  #endif
   public typealias AllCases = [FinvuAuthenticationSDK.FinvuAuthEnvironment]
   public typealias RawValue = Swift.Int
   nonisolated public static var allCases: [FinvuAuthenticationSDK.FinvuAuthEnvironment] {
@@ -33,9 +37,12 @@ import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers public class FinvuAuthenticationNativeWrapper {
   public static let shared: FinvuAuthenticationSDK.FinvuAuthenticationNativeWrapper
   public func setup(viewController: UIKit.UIViewController, environment: FinvuAuthenticationSDK.FinvuAuthEnvironment)
+  #if compiler(>=5.3) && $NonescapableTypes
   public func initAuth(config: [Swift.String : Any], completion: @escaping (Swift.Result<[Swift.String : Any], FinvuAuthenticationSDK.FinvuAuthException>) -> Swift.Void)
-  public func startAuth(phoneNumber: Swift.String, completion: @escaping (Swift.Result<[Swift.String : Any], FinvuAuthenticationSDK.FinvuAuthException>) -> Swift.Void)
-  public func verifyOtp(phoneNumber: Swift.String, otp: Swift.String, completion: @escaping (Swift.Result<[Swift.String : Any], FinvuAuthenticationSDK.FinvuAuthException>) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func startAuth(snaUrl: Swift.String, completion: @escaping (Swift.Result<[Swift.String : Any], FinvuAuthenticationSDK.FinvuAuthException>) -> Swift.Void)
+  #endif
   public func cleanupAll()
   @objc deinit
 }
@@ -48,8 +55,11 @@ import _SwiftConcurrencyShims
 }
 public struct FinvuAuthException : Swift.Error, Swift.Codable {
   public let status: Swift.String
-  public let errorCode: Swift.String
+  public let errorCode: Swift.String?
   public let errorMessage: Swift.String
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init(status: Swift.String, errorCode: Swift.String? = nil, errorMessage: Swift.String)
+  #endif
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -60,9 +70,11 @@ public enum FinvuAuthHttpError : Swift.Error, Foundation.LocalizedError {
   case invalidResponse
   case httpError(statusCode: Swift.Int, data: Foundation.Data?)
   case decodingError(any Swift.Error)
+  #if compiler(>=5.3) && $NonescapableTypes
   public var errorDescription: Swift.String? {
     get
   }
+  #endif
 }
 extension FinvuAuthenticationSDK.FinvuAuthEnvironment : Swift.Equatable {}
 extension FinvuAuthenticationSDK.FinvuAuthEnvironment : Swift.Hashable {}
