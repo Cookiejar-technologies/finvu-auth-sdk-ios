@@ -8,9 +8,9 @@ iOS 16+ · Swift 5.0+ · Xcode 14+
 
 **Podfile:**
 ```ruby
-pod 'FinvuAuthenticationSDK', :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', :tag => 'x.x.x'
+pod 'FinvuAuthenticationSDK', :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', :tag => '1.0.3'
 ```
-> Replace `x.x.x` with the latest release tag from the [GitHub releases page](https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios/releases).
+
 
 ```bash
 pod install --repo-update
