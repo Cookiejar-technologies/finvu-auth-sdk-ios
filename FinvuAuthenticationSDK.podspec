@@ -6,7 +6,8 @@ Pod::Spec.new do |s|
   s.description      = 'Authentication wrapper by finvu to support otpless login from webview rendered in parent app.'
 
   s.homepage         = 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios'
-  
+  s.license          = { :type => 'Proprietary', :file => 'LICENSE' }
+
   s.author           = { 'Finvu team' => 'pranadw@cookiejar.co.in' }
   s.source           = { :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', tag: '1.0.2' }
 
