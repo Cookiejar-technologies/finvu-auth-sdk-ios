@@ -1,22 +1,35 @@
-# FinvuAuthenticationSDK — iOS
+# Finvu Auth SDK — iOS
 
-iOS 16+ · Swift 5.0+ · Xcode 14+
+**Version:** `1.0.4` · **iOS:** 16.0+ · **Swift:** 5.0+ · **Xcode:** 14+
+
+Silent Network Authentication (SNA) SDK for iOS, with WKWebView bridge support for web-based authentication flows.
 
 ---
 
 ## Installation
 
-**Podfile:**
+Add to your `Podfile`:
+
 ```ruby
-pod 'FinvuAuthenticationSDK', :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', :tag => 'x.x.x'
+platform :ios, '16.0'
+
+pod 'FinvuAuthenticationSDK', :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', :tag => '1.0.4'
 ```
-> Replace `x.x.x` with the latest release tag from the [GitHub releases page](https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios/releases).
+
+Then run:
 
 ```bash
 pod install --repo-update
 ```
 
-**Info.plist** — add for Silent Network Authentication:
+---
+
+## iOS Setup
+
+### Info.plist — Network Security
+
+Add the following to your `Info.plist` to allow SNA carrier HTTP calls:
+
 ```xml
 <key>NSAppTransportSecurity</key>
 <dict>
@@ -50,67 +63,113 @@ pod install --repo-update
 
 ## Integration
 
-There are two ways to integrate depending on your app type.
-
----
-
 ### Option A — WebView App
 
-Use this if your app renders a web app inside a `WKWebView`. The SDK registers a JS bridge that your web app calls directly.
+Use this if your app loads a web page inside a `WKWebView` and the web app drives the authentication flow.
 
 ```swift
 import FinvuAuthenticationSDK
 
-// Setup — call once after your WKWebView is ready
-FinvuAuthenticationWrapper.shared.setupWebView(
-    webView,
-    viewController: self,        // or rootVC in SwiftUI
-    environment: .production
-)
+class AuthViewController: UIViewController {
 
-// Cleanup — call when the user exits the auth flow
-FinvuAuthenticationWrapper.shared.cleanupAll()
+    var webView: WKWebView!
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Setup the SDK bridge — call once after webView is ready
+        FinvuAuthenticationWrapper.shared.setupWebView(
+            webView,
+            viewController: self,
+            environment: .production  // or .development
+        )
+
+        webView.load(URLRequest(url: URL(string: "https://your-web-app-url")!))
+    }
+
+    deinit {
+        FinvuAuthenticationWrapper.shared.cleanupAll()
+    }
+}
 ```
 
-Your web app communicates with the SDK through the `finvu_authentication_bridge` JS bridge (see separate JS integration guide).
+**SwiftUI:**
+
+```swift
+import FinvuAuthenticationSDK
+import SwiftUI
+import WebKit
+
+struct AuthWebView: UIViewRepresentable {
+    func makeUIView(context: Context) -> WKWebView {
+        let webView = WKWebView()
+        FinvuAuthenticationWrapper.shared.setupWebView(
+            webView,
+            viewController: getRootViewController(),
+            environment: .production
+        )
+        webView.load(URLRequest(url: URL(string: "https://your-web-app-url")!))
+        return webView
+    }
+
+    func updateUIView(_ uiView: WKWebView, context: Context) {}
+}
+```
+
+Your web app communicates with the SDK through the `finvu_authentication_bridge` JS bridge.
 
 ---
 
 ### Option B — Native App
 
-Use this if your app handles auth entirely in Swift, without a WebView.
+Use this if your app handles the authentication flow entirely in Swift, without a WebView.
 
 ```swift
 import FinvuAuthenticationSDK
 
-// 1. Setup
+// 1. Setup — call once
 FinvuAuthenticationNativeWrapper.shared.setup(
     viewController: self,
-    environment: .production
+    environment: .production  // or .development
 )
 
-// 2. Init — call with your appId and requestId
+// 2. Init — call with requestId from your backend
 FinvuAuthenticationNativeWrapper.shared.initAuth(
     config: ["requestId": "YOUR_REQUEST_ID"]
 ) { result in
     switch result {
-    case .success(let response): // proceed to startAuth
-    case .failure(let error):    // handle error
+    case .success(let response):
+        // proceed to startAuth
+        break
+    case .failure(let error):
+        // handle error
+        break
     }
 }
 
 // 3. Start SNA — call with the SNA URL returned by your backend
 FinvuAuthenticationNativeWrapper.shared.startAuth(snaUrl: "SNA_URL") { result in
     switch result {
-    case .success(let response): // auth complete, extract token
-    case .failure(let error):    // handle error
+    case .success(let response):
+        let token = response.token  // auth complete — use token
+    case .failure(let error):
+        // handle error
     }
 }
 
-// 4. Cleanup — call when done
+// 4. Cleanup — call when done or user exits
 FinvuAuthenticationNativeWrapper.shared.cleanupAll()
 ```
 
 ---
 
-> **Note:** Silent Network Authentication requires mobile data ON and Wi-Fi OFF.
+## Demo App
+
+See [`finvuauthsdkdemoswiftui/`](./finvuauthsdkdemoswiftui) for a complete working example.
+
+
+---
+
+## Support
+
+support@cookiejar.co.in · [finvu.in](https://finvu.in)
