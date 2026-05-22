@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5eF0/GuXk6nMjAO4bw6K3y7C/MY=
+		fKkNh3ZBze+YQA7NkWp6C2xWxsM=
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		1bZCIzN7V7Kz26MRi6tl7YlgsXg=
+		dC+sz9r2dIzHBXZKwE6+PcVHh6M=
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		N2Mc+HRJTZ5bvfWq5kcAj6N6dto=
+		1g02snhxSPMUng9vzwSDVpv+hVk=
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		troOr0DdKeWGzBAXfdP5U9lCakA=
+		Y0uEscCyGQlbeisoOI4HGm6ZtNw=
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Z5yi6Ot9Rmp0OgTqSH10Z08n67U=
+		bygvetZEQ7Jao7gvWPEhmsqpAak=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,14 +89,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WErJQzJ0zWpegF8p0WgHdPrbPeAbX7QgVEUh8VvYXo8=
+			OXqy2eHvuj4J490tNYr6JXnJLgJtqFlegokO3OV1P3k=
 			</data>
 		</dict>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5hQNRcOvvkBVATP7UdOUYTwjx+/ck4C/F/hraqZU6/8=
+			qaRPbxIqIODghumH8/3wUc4JqKaiV7IIlxfmqt2JKjI=
 			</data>
 		</dict>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -131,7 +131,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gsSUZOBLjDZ5BrqBV6r6EsNXlxks6J4zSkCnm7lXmWY=
+			5bCiXS/rBIpjWf3zUvtMqSzwSJLoXlhNY2IVVYxgWRs=
 			</data>
 		</dict>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GziKsUZARkr+Zmq/8caLTLflcxgF1HNKqaeq+DLcVq8=
+			cIc6XkYFEGOFAaFz78fV7a5vG6hvw63ILZdOjb4iHwM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
