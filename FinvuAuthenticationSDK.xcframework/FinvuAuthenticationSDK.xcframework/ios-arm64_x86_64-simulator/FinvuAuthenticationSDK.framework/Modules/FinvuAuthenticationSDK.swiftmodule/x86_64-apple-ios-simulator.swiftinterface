@@ -3,9 +3,12 @@
 // swift-module-flags: -target x86_64-apple-ios16.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name FinvuAuthenticationSDK
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
 import CoreTelephony
+import CryptoKit
 @_exported import FinvuAuthenticationSDK
 import Foundation
+import LocalAuthentication
 import Network
+import Security
 import Swift
 import UIKit
 import WebKit
@@ -43,6 +46,22 @@ import os
   #if compiler(>=5.3) && $NonescapableTypes
   public func startAuth(snaUrl: Swift.String, completion: @escaping (Swift.Result<[Swift.String : Any], FinvuAuthenticationSDK.FinvuAuthException>) -> Swift.Void)
   #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func initSNA(config: [Swift.String : Any], completion: @escaping (Swift.Result<[Swift.String : Any], FinvuAuthenticationSDK.FinvuAuthException>) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func startSNA(snaUrl: Swift.String, completion: @escaping (Swift.Result<[Swift.String : Any], FinvuAuthenticationSDK.FinvuAuthException>) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func getDeviceBindingState(config: [Swift.String : Any], completion: @escaping (Swift.Result<[Swift.String : Any], FinvuAuthenticationSDK.FinvuAuthException>) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func enrollDeviceBinding(config: [Swift.String : Any], completion: @escaping (Swift.Result<[Swift.String : Any], FinvuAuthenticationSDK.FinvuAuthException>) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func signDeviceBindingChallenge(config: [Swift.String : Any], completion: @escaping (Swift.Result<[Swift.String : Any], FinvuAuthenticationSDK.FinvuAuthException>) -> Swift.Void)
+  #endif
+  public func getCapabilities() -> [Swift.String : Any]
   public func cleanupAll()
   @objc deinit
 }
