@@ -1,6 +1,6 @@
 # Finvu Auth SDK — iOS
 
-**Version:** `1.1.0` · **iOS:** 16.0+ · **Swift:** 5.0+ · **Xcode:** 14+
+**Version:** `1.1.1` · **iOS:** 15.0+ · **Swift:** 5.0+ · **Xcode:** 14+
 
 Silent Network Authentication (SNA) SDK for iOS, with WKWebView bridge support for web-based authentication flows.
 
@@ -11,9 +11,9 @@ Silent Network Authentication (SNA) SDK for iOS, with WKWebView bridge support f
 Add to your `Podfile`:
 
 ```ruby
-platform :ios, '16.0'
+platform :ios, '15.0'
 
-pod 'FinvuAuthenticationSDK', :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', :tag => '1.1.0'
+pod 'FinvuAuthenticationSDK', :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', :tag => '1.1.1'
 ```
 
 Then run:
