@@ -13,7 +13,7 @@ Add to your `Podfile`:
 ```ruby
 platform :ios, '15.0'
 
-pod 'FinvuAuthenticationSDK', :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', :tag => '1.1.1'
+pod 'FinvuAuthenticationSDK', :git => 'https://github.com/Cookiejar-technologies/finvu-auth-sdk-ios.git', :tag => 'v1.1.1'
 ```
 
 Then run:
