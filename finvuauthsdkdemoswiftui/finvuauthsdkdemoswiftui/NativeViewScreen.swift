@@ -17,7 +17,7 @@ struct NativeAuthView: View {
 
     var body: some View {
         VStack(spacing: 16) {
-            TextField("Enter Mobile Number", text: $phoneNumber)
+            TextField("Enter SNA URL", text: $phoneNumber)
                 .keyboardType(.numberPad)
                 .padding()
                 .background(Color.gray.opacity(0.1))
@@ -85,7 +85,7 @@ struct NativeAuthView: View {
 
     private func callStartAuth() {
         authResult = "Processing ..."
-        FinvuAuthenticationNativeWrapper.shared.startAuth(phoneNumber: phoneNumber) { result in
+        FinvuAuthenticationNativeWrapper.shared.startAuth(snaUrl: phoneNumber) { result in
             DispatchQueue.main.async {
                 switch result {
                 case .success(let response):
