@@ -1842,6 +1842,20 @@
         "moduleName": "FinvuAuthenticationSDK"
       },
       {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "FinvuAuthenticationSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Security",
+        "printedName": "Security",
+        "declKind": "Import",
+        "moduleName": "FinvuAuthenticationSDK"
+      },
+      {
         "kind": "TypeDecl",
         "name": "FinvuAuthHttpError",
         "printedName": "FinvuAuthHttpError",
@@ -2273,7 +2287,7 @@
       "kind": "StringLiteral",
       "offset": 121,
       "length": 7,
-      "value": "\"1.1.1\""
+      "value": "\"1.1.2\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
@@ -2544,919 +2558,968 @@
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 5677,
+      "offset": 5684,
+      "length": 20,
+      "value": "\"ORIGIN_NOT_ALLOWED\""
+    },
+    {
+      "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 5830,
       "length": 28,
       "value": "\"INVALID_JSON_CONFIGURATION\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 5849,
+      "offset": 6002,
       "length": 46,
       "value": "\"Authentication failed, something went wrong.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 5929,
+      "offset": 6082,
       "length": 90,
       "value": "\"Authentication failed, SDK initialization failed. Please try initializing the SDK again.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 6071,
+      "offset": 6224,
       "length": 58,
       "value": "\"Invalid JSON configuration for Finvu Authentication SDK.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 6170,
+      "offset": 6323,
       "length": 26,
       "value": "\"Invalid SNA URI provided\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 6246,
+      "offset": 6399,
       "length": 72,
       "value": "\"No cellular network available. Please ensure cellular data is enabled.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 6373,
+      "offset": 6526,
       "length": 77,
       "value": "\"Not connected to mobile data. Please disable WiFi and use cellular network.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 6496,
+      "offset": 6649,
       "length": 48,
       "value": "\"Connection timeout - SNA request took too long\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 6597,
+      "offset": 6750,
       "length": 20,
       "value": "\"SNA request failed\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 6665,
+      "offset": 6818,
       "length": 20,
       "value": "\"Too many redirects\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 6732,
+      "offset": 6885,
       "length": 19,
       "value": "\"Connection failed\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 6797,
+      "offset": 6950,
       "length": 36,
       "value": "\"Response has no data or is corrupt\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 6879,
+      "offset": 7032,
       "length": 22,
       "value": "\"Invalid redirect URL\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 6950,
+      "offset": 7103,
       "length": 54,
       "value": "\"Session not initialized. Please call initAuth first.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 7053,
+      "offset": 7206,
       "length": 48,
       "value": "\"iOS 12.0 or later is required for cellular SNA\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 7145,
+      "offset": 7298,
       "length": 45,
       "value": "\"ViewController is required but not provided\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 7237,
+      "offset": 7390,
       "length": 23,
       "value": "\"Logger not configured\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 7304,
+      "offset": 7457,
       "length": 20,
       "value": "\"Invalid event type\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 7363,
+      "offset": 7516,
       "length": 24,
       "value": "\"Network error occurred\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 7427,
+      "offset": 7580,
       "length": 25,
       "value": "\"Request encoding failed\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 7492,
+      "offset": 7645,
       "length": 26,
       "value": "\"Response decoding failed\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 7561,
+      "offset": 7714,
       "length": 13,
       "value": "\"Invalid URL\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 7622,
+      "offset": 7775,
       "length": 27,
       "value": "\"Invalid response received\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 7724,
+      "offset": 7877,
       "length": 46,
       "value": "\"This device does not support device binding.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 7823,
+      "offset": 7976,
       "length": 67,
       "value": "\"Device is not enrolled. Please enroll before signing a challenge.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 7946,
+      "offset": 8099,
       "length": 61,
       "value": "\"Device binding key is no longer valid. Please enroll again.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8062,
+      "offset": 8215,
       "length": 38,
       "value": "\"Device authentication was cancelled.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8152,
+      "offset": 8305,
       "length": 31,
       "value": "\"Device authentication failed.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8237,
+      "offset": 8390,
       "length": 35,
       "value": "\"Device binding enrollment failed.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8324,
+      "offset": 8477,
       "length": 46,
       "value": "\"Failed to sign the device binding challenge.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8421,
+      "offset": 8574,
       "length": 82,
       "value": "\"No screen lock is set on this device. Set a passcode or biometric and try again.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8546,
+      "offset": 8699,
       "length": 38,
       "value": "\"Invalid or empty challenge provided.\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8643,
+      "offset": 8796,
       "length": 20,
       "value": "\"Unsupported method\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8755,
+      "offset": 8860,
+      "length": 66,
+      "value": "\"This page is not allowed to use the Finvu authentication bridge.\""
+    },
+    {
+      "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 9018,
       "length": 7,
       "value": "\"appId\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8797,
+      "offset": 9060,
       "length": 10,
       "value": "\"authType\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8849,
+      "offset": 9112,
       "length": 17,
       "value": "\"deliveryChannel\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8896,
+      "offset": 9159,
       "length": 6,
       "value": "\"data\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8938,
+      "offset": 9201,
       "length": 12,
       "value": "\"identities\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 8983,
+      "offset": 9246,
       "length": 9,
       "value": "\"channel\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9025,
+      "offset": 9288,
       "length": 9,
       "value": "\"methods\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9065,
+      "offset": 9328,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9103,
+      "offset": 9366,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9149,
+      "offset": 9412,
       "length": 14,
       "value": "\"errorMessage\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9199,
+      "offset": 9462,
       "length": 11,
       "value": "\"errorCode\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9242,
+      "offset": 9505,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9287,
+      "offset": 9550,
       "length": 12,
       "value": "\"statusCode\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9334,
+      "offset": 9597,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9380,
+      "offset": 9643,
       "length": 10,
       "value": "\"entityId\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9426,
+      "offset": 9689,
       "length": 11,
       "value": "\"requestId\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9476,
+      "offset": 9739,
       "length": 14,
       "value": "\"authProvider\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9526,
+      "offset": 9789,
       "length": 11,
       "value": "\"eventName\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9577,
+      "offset": 9840,
       "length": 15,
       "value": "\"failureReason\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9629,
+      "offset": 9892,
       "length": 12,
       "value": "\"userHandle\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9675,
+      "offset": 9938,
       "length": 10,
       "value": "\"metaData\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9716,
+      "offset": 9979,
       "length": 7,
       "value": "\"txnid\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9752,
+      "offset": 10015,
       "length": 5,
       "value": "\"mcc\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9786,
+      "offset": 10049,
       "length": 5,
       "value": "\"mnc\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9833,
+      "offset": 10096,
       "length": 16,
       "value": "\"httpStatusCode\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9884,
+      "offset": 10147,
       "length": 10,
       "value": "\"finalUrl\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9929,
+      "offset": 10192,
       "length": 10,
       "value": "\"snaToken\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 9998,
+      "offset": 10261,
       "length": 7,
       "value": "\"state\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10037,
+      "offset": 10300,
       "length": 7,
       "value": "\"keyId\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10085,
+      "offset": 10348,
       "length": 15,
       "value": "\"allowedKeyIds\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10136,
+      "offset": 10399,
       "length": 11,
       "value": "\"publicKey\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10182,
+      "offset": 10445,
       "length": 11,
       "value": "\"algorithm\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10230,
+      "offset": 10493,
       "length": 13,
       "value": "\"attestation\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10278,
+      "offset": 10541,
       "length": 11,
       "value": "\"challenge\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10324,
+      "offset": 10587,
       "length": 11,
       "value": "\"signature\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10382,
+      "offset": 10645,
       "length": 22,
       "value": "\"attestationChallenge\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10442,
+      "offset": 10705,
       "length": 13,
       "value": "\"promptTitle\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10496,
+      "offset": 10759,
       "length": 16,
       "value": "\"promptSubtitle\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10580,
+      "offset": 10843,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10630,
+      "offset": 10893,
       "length": 15,
       "value": "\"bridgeVersion\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10678,
+      "offset": 10941,
       "length": 9,
       "value": "\"factors\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10730,
+      "offset": 10993,
       "length": 18,
       "value": "\"supportedMethods\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10860,
+      "offset": 11123,
       "length": 18,
       "value": "\"clientAppVersion\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10915,
+      "offset": 11178,
       "length": 12,
       "value": "\"deviceType\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10955,
+      "offset": 11218,
       "length": 4,
       "value": "\"os\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 10993,
+      "offset": 11256,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 11040,
+      "offset": 11303,
       "length": 12,
       "value": "\"sdkVersion\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 11158,
+      "offset": 11421,
       "length": 43,
       "value": "\"FINVU_AUTH_WRAPPER :: SCRIPT invoked is :\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 11246,
+      "offset": 11509,
       "length": 24,
       "value": "\"FINVU_AUTH_WRAPPER :: \""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 11311,
+      "offset": 11574,
       "length": 42,
       "value": "\"FINVU_AUTH_WRAPPER :: initialised bridge\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 11395,
+      "offset": 11658,
       "length": 23,
       "value": "\"HTTP POST Request to:\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 11461,
+      "offset": 11724,
       "length": 23,
       "value": "\"HTTP Response Status:\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 11526,
+      "offset": 11789,
       "length": 16,
       "value": "\"Logging event:\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 11579,
+      "offset": 11842,
       "length": 19,
       "value": "\"cleanup completed\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "FloatLiteral",
-      "offset": 11723,
+      "offset": 11986,
       "length": 4,
       "value": "30.0"
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 11770,
+      "offset": 12033,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 11825,
+      "offset": 12088,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 11867,
+      "offset": 12130,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 11918,
+      "offset": 12181,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 11971,
+      "offset": 12234,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 12025,
+      "offset": 12288,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 12083,
+      "offset": 12346,
       "length": 12,
       "value": "\"User-Agent\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 12139,
+      "offset": 12402,
       "length": 15,
       "value": "\"X-Environment\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 12263,
+      "offset": 12526,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 12375,
+      "offset": 12638,
       "length": 11,
       "value": "\"INIT_AUTH\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 12430,
+      "offset": 12693,
       "length": 20,
       "value": "\"INIT_AUTH_RESPONSE\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 12486,
+      "offset": 12749,
       "length": 12,
       "value": "\"START_AUTH\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 12543,
+      "offset": 12806,
       "length": 21,
       "value": "\"START_AUTH_RESPONSE\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 12675,
+      "offset": 12938,
       "length": 29,
       "value": "\"finvu_authentication_bridge\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 12833,
+      "offset": 13096,
       "length": 10,
       "value": "\"initAuth\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 12886,
+      "offset": 13149,
       "length": 11,
       "value": "\"startAuth\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 12980,
+      "offset": 13243,
       "length": 9,
       "value": "\"initSNA\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 13031,
+      "offset": 13294,
       "length": 10,
       "value": "\"startSNA\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 13129,
+      "offset": 13392,
       "length": 23,
       "value": "\"getDeviceBindingState\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 13206,
+      "offset": 13469,
       "length": 21,
       "value": "\"enrollDeviceBinding\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 13289,
+      "offset": 13552,
       "length": 28,
       "value": "\"signDeviceBindingChallenge\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 13385,
+      "offset": 13648,
       "length": 17,
       "value": "\"getCapabilities\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 13441,
+      "offset": 13704,
       "length": 10,
       "value": "\"callback\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 13487,
+      "offset": 13750,
       "length": 8,
       "value": "\"method\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 13536,
+      "offset": 13799,
       "length": 12,
       "value": "\"initConfig\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 13585,
+      "offset": 13848,
       "length": 8,
       "value": "\"snaUri\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 13710,
+      "offset": 13973,
       "length": 8,
       "value": "\"config\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 13923,
+      "offset": 14186,
       "length": 17,
       "value": "\"Verify it's you\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 13981,
+      "offset": 14244,
       "length": 35,
       "value": "\"Confirm your identity to continue\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 14136,
+      "offset": 14399,
       "length": 16,
       "value": "\"DEVICE_BINDING\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 14389,
+      "offset": 14652,
       "length": 32,
       "value": "\"BIOMETRIC_OR_DEVICE_CREDENTIAL\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 14586,
+      "offset": 14849,
       "length": 59,
       "value": "\"https:\/\/reactjssdk.finvu.in\/redirection\/api\/auth-tracking\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 14695,
+      "offset": 14958,
       "length": 58,
       "value": "\"https:\/\/webvwlive.finvu.in\/redirection\/api\/auth-tracking\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
+      "kind": "Dictionary",
+      "offset": 15493,
+      "length": 639,
+      "value": "[(\"reactjssdk.finvu.in\", [\"C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M=\", \"diGVwiVYbubAI3RW4hB9xU8e\/CH2GnkuvVFZE8zmgzI=\", \"sCkq5UWXjg+7mKu9lMhhYF5bGLsy7VI\/UNW3tccdR7w=\"]), (\"webvwlive.finvu.in\", [\"hxqRlPTu1bMS\/0DITB1SSu0vd4u\/8l8TjPgfaAp63Gc=\", \"Vfd95BwDeSQo+NUYxVEEIlvkOlWY2SalKK1lPhzOx78=\", \"QXnt2YHvdHR3tJYmQIr0Paosp6t\/nggsEGD4QJZ3Q0g=\", \"mEflZT5enoR1FuXLgYYGqnVEoZvmf9c2bVBpiOjYQ0c=\"])]"
+    },
+    {
+      "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 14908,
+      "offset": 16350,
+      "length": 10,
+      "value": "\"finvu.in\""
+    },
+    {
+      "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 17208,
       "length": 37,
       "value": "\"^https:\/\/reactjssdk\\.finvu\\.in\/.*\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "StringLiteral",
-      "offset": 14998,
+      "offset": 17298,
       "length": 36,
       "value": "\"^https:\/\/webvwlive\\.finvu\\.in\/.*\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 15566,
+      "offset": 17866,
       "length": 16,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 15592,
+      "offset": 17892,
       "length": 9,
       "value": "2"
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 15611,
+      "offset": 17911,
       "length": 17,
       "value": "3"
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 15638,
+      "offset": 17938,
       "length": 7,
       "value": "4"
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 15655,
+      "offset": 17955,
       "length": 6,
       "value": "5"
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 15671,
+      "offset": 17971,
       "length": 28,
       "value": "6"
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 15709,
+      "offset": 18009,
       "length": 28,
       "value": "7"
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/utils\/FinvuAuthConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 15747,
+      "offset": 18047,
       "length": 23,
       "value": "8"
+    },
+    {
+      "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/bridge\/FinvuAuthenticationBridge.swift",
+      "kind": "StringLiteral",
+      "offset": 5063,
+      "length": 57,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/bridge\/FinvuAuthenticationBridge.swift",
+      "kind": "StringLiteral",
+      "offset": 5108,
+      "length": 1,
+      "value": "\": \""
+    },
+    {
+      "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/bridge\/FinvuAuthenticationBridge.swift",
+      "kind": "StringLiteral",
+      "offset": 5119,
+      "length": 1,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/manager\/FinvuAuthLogManager.swift",
@@ -3538,14 +3601,14 @@
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/manager\/FinvuHTTPManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 649,
+      "offset": 682,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jenilk\/finvu_flutter_auth_sdk\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/manager\/FinvuHTTPManager.swift",
       "kind": "StringLiteral",
-      "offset": 763,
+      "offset": 796,
       "length": 26,
       "value": "\"finvu.http.manager.state\""
     }
